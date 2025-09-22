@@ -1,0 +1,4 @@
+public actionResult index()
+{
+return view();
+}
